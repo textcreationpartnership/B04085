@@ -1,0 +1,1204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the particulars of His Majesties fleet, as they are divided into squadrons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04085</idno>
+            <idno type="STC">Wing L2482</idno>
+            <idno type="STC">ESTC R179846</idno>
+            <idno type="EEBO-CITATION">52612196</idno>
+            <idno type="OCLC">ocm 52612196</idno>
+            <idno type="VID">179498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179498)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the particulars of His Majesties fleet, as they are divided into squadrons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Lists of vessels --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:179498:1" rendition="simple:additions"/>
+            <head>A LIST of the particulars of HIS MAJESTIES FLEET, as they are divided into SQUADRONS.</head>
+            <p>
+               <table>
+                  <head>
+                     <hi>RED.</hi> DUKE of YORK.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>
+                           <gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ips Names.</hi>
+                     </cell>
+                     <cell role="label">Capt.</cell>
+                     <cell role="label">Men.</cell>
+                     <cell role="label">Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>l Charles</cell>
+                     <cell>
+                        <hi>Pen</hi>
+                     </cell>
+                     <cell>750</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>l Oak</cell>
+                     <cell>
+                        <hi>Lawſon</hi>
+                     </cell>
+                     <cell>450</cell>
+                     <cell>76</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> James</cell>
+                     <cell>L. <hi>Malborough</hi>
+                     </cell>
+                     <cell>380</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſure</cell>
+                     <cell>
+                        <hi>Berkly</hi>
+                     </cell>
+                     <cell>380</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> George</cell>
+                     <cell>D. <hi>Buckingham</hi>
+                     </cell>
+                     <cell>360</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>rfax</cell>
+                     <cell>
+                        <hi>Sahnan</hi>
+                     </cell>
+                     <cell>300</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Mary</cell>
+                     <cell>
+                        <hi>Smith</hi>
+                     </cell>
+                     <cell>300</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Glubceſter</cell>
+                     <cell>
+                        <hi>Clark</hi>
+                     </cell>
+                     <cell>280</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Plimouth</cell>
+                     <cell>
+                        <hi>Allen</hi>
+                     </cell>
+                     <cell>280</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eopard</cell>
+                     <cell>
+                        <hi>Beach</hi>
+                     </cell>
+                     <cell>240</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Yarmouth</cell>
+                     <cell>
+                        <hi>Eliffe</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Happy Return</cell>
+                     <cell>
+                        <hi>Lambert</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Portſmouth</cell>
+                     <cell>
+                        <hi>Moon</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Briſtol</cell>
+                     <cell>
+                        <hi>Hart</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Convertine</cell>
+                     <cell>
+                        <hi>Price</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Diamond</cell>
+                     <cell>
+                        <hi>† Golding, King</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Antelope</cell>
+                     <cell>
+                        <hi>Chichley</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Dover</cell>
+                     <cell>
+                        <hi>Peirce</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Royal Exchange</cell>
+                     <cell>
+                        <hi>Brown</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Hendra</cell>
+                     <cell>
+                        <hi>Thompſon</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Bona Adventure</cell>
+                     <cell>
+                        <hi>Leburn</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>George</cell>
+                     <cell>
+                        <hi>Haylop</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Saphier</cell>
+                     <cell>
+                        <hi>Hide</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Amity</cell>
+                     <cell>
+                        <hi>Parker</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Ginny</cell>
+                     <cell>
+                        <hi>Ableſton</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Poſt Frigot</cell>
+                     <cell>
+                        <hi>Lawſon</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Loyal George</cell>
+                     <cell>
+                        <hi>Earl</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Succeſs</cell>
+                     <cell>
+                        <hi>Groves</hi>
+                     </cell>
+                     <cell>130</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Fountain</cell>
+                     <cell>
+                        <hi>Dutel</hi>
+                     </cell>
+                     <cell>130</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Mermaid</cell>
+                     <cell>
+                        <hi>King</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Norwich</cell>
+                     <cell>
+                        <hi>Wetwang</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Coventry</cell>
+                     <cell>
+                        <hi>Hill</hi>
+                     </cell>
+                     <cell>
+                        <hi>100</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Martines</cell>
+                     <cell>
+                        <hi>Tickle</hi>
+                     </cell>
+                     <cell>65</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Drake</cell>
+                     <cell>
+                        <hi>Pool</hi>
+                     </cell>
+                     <cell>85</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Little-Mary</cell>
+                     <cell>
+                        <hi>Mary</hi>
+                     </cell>
+                     <cell>75</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Satisfaction</cell>
+                     <cell>
+                        <hi>May</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Blackamore</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Neale</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Eagle</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>K. Ferdinando</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Fame</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bramble</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Co Ketch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Eaglet</cell>
+                     <cell cols="3">
+                        <hi>7 Fire-ſhips and ketches.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. George</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Batcheller</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Iſabella</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hopefull</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sea-Flower</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Edward</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hannah</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>WHITE.</hi> P. RUPERT.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>Ships Names.</hi>
+                     </cell>
+                     <cell role="label">Capt.</cell>
+                     <cell role="label">Men.</cell>
+                     <cell role="label">Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>Royal James</cell>
+                     <cell>
+                        <hi>P. Rupert</hi>
+                     </cell>
+                     <cell>500</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Triumph</cell>
+                     <cell>
+                        <hi>Mims</hi>
+                     </cell>
+                     <cell>430</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Reſolution</cell>
+                     <cell>
+                        <hi>Sanſon</hi>
+                     </cell>
+                     <cell>290</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>S. Andrew</cell>
+                     <cell>
+                        <hi>Pine</hi>
+                     </cell>
+                     <cell>360</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Rainbow</cell>
+                     <cell>
+                        <hi>Hannom</hi>
+                     </cell>
+                     <cell>320</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Henrietta</cell>
+                     <cell>
+                        <hi>Wood</hi>
+                     </cell>
+                     <cell>300</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Anne</cell>
+                     <cell>
+                        <hi>Brown</hi>
+                     </cell>
+                     <cell>280</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Revenge</cell>
+                     <cell>
+                        <hi>Holms</hi>
+                     </cell>
+                     <cell>280</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Monck</cell>
+                     <cell>
+                        <hi>Penroſe</hi>
+                     </cell>
+                     <cell>260</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Lion</cell>
+                     <cell>
+                        <hi>Spragg</hi>
+                     </cell>
+                     <cell>260</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>New Caſtle</cell>
+                     <cell>
+                        <hi>Page</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Mary Roſe</cell>
+                     <cell>
+                        <hi>Reeves</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Kent</cell>
+                     <cell>
+                        <hi>Ewens</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Portland</cell>
+                     <cell>
+                        <hi>Ayloffe</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Ruby</cell>
+                     <cell>
+                        <hi>Gennings</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Advice</cell>
+                     <cell>
+                        <hi>Poole</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Preſerve</cell>
+                     <cell>
+                        <hi>Haywood</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Aſſurance</cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>'s</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Expedition</cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible: blotted" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Bear</cell>
+                     <cell>
+                        <hi>Waterworth</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Milford</cell>
+                     <cell>
+                        <hi>Seale</hi>
+                     </cell>
+                     <cell>130</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Colcheſter</cell>
+                     <cell>
+                        <hi>Healing</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Speedwell</cell>
+                     <cell>
+                        <hi>Lightfoot</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Garland</cell>
+                     <cell>
+                        <hi>Talbot</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Hecter</cell>
+                     <cell>
+                        <hi>Caſtle</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Paradox</cell>
+                     <cell>
+                        <hi>Guy</hi>
+                     </cell>
+                     <cell>85</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Eaſt-India Merchant</cell>
+                     <cell> </cell>
+                     <cell>180</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Bendiſh</cell>
+                     <cell>
+                        <hi>Taylor</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Return</cell>
+                     <cell>
+                        <hi>Hubord</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Exchange</cell>
+                     <cell>
+                        <hi>Wentworth</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Conſtant Katherine</cell>
+                     <cell>
+                        <hi>Sanders</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Sea Adventure</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Elizabeth</cell>
+                     <cell>
+                        <hi>Nixſon</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Dove</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Little Sampſon</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Will. &amp; Mary</cell>
+                     <cell cols="3">
+                        <hi>7 Fire-ſhips and Ketches.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dolphine</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>True Love</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Merlin</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>John and Abigall</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hind Ketch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>James Ketch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>BLEW.</hi> E. SANDVVICH.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>Ships Names.</hi>
+                     </cell>
+                     <cell role="label">Capt.</cell>
+                     <cell role="label">Men.</cell>
+                     <cell role="label">Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>Prince</cell>
+                     <cell>
+                        <hi>Cutins</hi>
+                     </cell>
+                     <cell>700</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Henry</cell>
+                     <cell>
+                        <hi>Sir G. Askew</hi>
+                     </cell>
+                     <cell>430</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Royal Katherine</cell>
+                     <cell>
+                        <hi>Titheman</hi>
+                     </cell>
+                     <cell>450</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Unicorn</cell>
+                     <cell>
+                        <hi>Tithinnan</hi>
+                     </cell>
+                     <cell>320</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Mountague</cell>
+                     <cell>
+                        <hi>Fen</hi>
+                     </cell>
+                     <cell>350</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>York</cell>
+                     <cell>
+                        <hi>Swanly</hi>
+                     </cell>
+                     <cell>280</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Drednoughe</cell>
+                     <cell>
+                        <hi>Terne</hi>
+                     </cell>
+                     <cell>280</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Eſſex</cell>
+                     <cell>
+                        <hi>Utbert</hi>
+                     </cell>
+                     <cell>260</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Dunkirk</cell>
+                     <cell>
+                        <hi>Taylor</hi>
+                     </cell>
+                     <cell>260</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Princes</cell>
+                     <cell>
+                        <hi>Swanly</hi>
+                     </cell>
+                     <cell>230</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Jerſie</cell>
+                     <cell>
+                        <hi>Hide</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Centurion</cell>
+                     <cell>
+                        <hi>Moulten</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Swallow</cell>
+                     <cell>
+                        <hi>Hodges</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Breda</cell>
+                     <cell>
+                        <hi>Kirby</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Aſſiſtance</cell>
+                     <cell>
+                        <hi>Owen</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Dragon</cell>
+                     <cell>
+                        <hi>Loyd</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Hampſhire</cell>
+                     <cell>
+                        <hi>Batts</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Adventure</cell>
+                     <cell>
+                        <hi>Young</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Providence</cell>
+                     <cell>
+                        <hi>Turwit</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Gernſey</cell>
+                     <cell>
+                        <hi>Coniſly</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Forſter</cell>
+                     <cell>
+                        <hi>Cotterel</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Pembrook</cell>
+                     <cell>
+                        <hi>Parry</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Oxford</cell>
+                     <cell>
+                        <hi>Bacon</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Paul</cell>
+                     <cell>
+                        <hi>Foot</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Lyzard</cell>
+                     <cell>
+                        <hi>Andrew</hi>
+                     </cell>
+                     <cell>90</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Little Gift</cell>
+                     <cell>
+                        <hi>Johnſon</hi>
+                     </cell>
+                     <cell>85</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Blackamore</cell>
+                     <cell>
+                        <hi>Barton</hi>
+                     </cell>
+                     <cell>65</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Good Hope</cell>
+                     <cell>
+                        <hi>Archer</hi>
+                     </cell>
+                     <cell>130</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Hambro Merchant</cell>
+                     <cell>
+                        <hi>Cadman</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>In<hi rend="sup">o</hi> and Th<hi rend="sup">o</hi>
+                     </cell>
+                     <cell>
+                        <hi>Dawes</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Caſtle Frigot</cell>
+                     <cell> </cell>
+                     <cell>160</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Mervil and Merchant Anſlea</cell>
+                     <cell> </cell>
+                     <cell>160</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Marmaduke</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Society</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Golden Phenix</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Breyer</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Nonſuch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tho and Rebecka</cell>
+                     <cell cols="3">
+                        <hi>Fire Ships and Ketches.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Amity</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In<hi rend="sup">o</hi> Smack</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In<hi rend="sup">o</hi> Hoy</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Two Siſters</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
